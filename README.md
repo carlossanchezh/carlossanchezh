@@ -44,3 +44,14 @@ Estudiante de Ingeniería Informática UPM | Desarrollo software, IA y bases de 
   <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
   <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
 </p>
+
+---
+
+## 📊 Estadísticas
+
+<p align="center">
+  <a href="https://github.com/carlossanchezh">
+    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=carlossanchezh&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=carlossanchezh&layout=compact&langs_count=8&theme=algolia" />
+  </a>
+</p>
